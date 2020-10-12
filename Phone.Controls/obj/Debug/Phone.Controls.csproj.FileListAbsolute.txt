@@ -1,0 +1,11 @@
+C:\Users\TOSHIBA\documents\visual studio 2010\Projects\iLikeWine\Phone.Controls\Bin\Debug\ApplicationIcon.png
+C:\Users\TOSHIBA\documents\visual studio 2010\Projects\iLikeWine\Phone.Controls\Bin\Debug\Background.png
+C:\Users\TOSHIBA\documents\visual studio 2010\Projects\iLikeWine\Phone.Controls\Bin\Debug\Phone.Controls.dll
+C:\Users\TOSHIBA\documents\visual studio 2010\Projects\iLikeWine\Phone.Controls\Bin\Debug\Phone.Controls.pdb
+C:\Users\TOSHIBA\documents\visual studio 2010\Projects\iLikeWine\Phone.Controls\Bin\Debug\AppManifest.xaml
+C:\Users\TOSHIBA\documents\visual studio 2010\Projects\iLikeWine\Phone.Controls\Bin\Debug\Phone.Controls.xap
+C:\Users\TOSHIBA\documents\visual studio 2010\Projects\iLikeWine\Phone.Controls\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\TOSHIBA\documents\visual studio 2010\Projects\iLikeWine\Phone.Controls\obj\Debug\Phone.Controls.g.resources
+C:\Users\TOSHIBA\documents\visual studio 2010\Projects\iLikeWine\Phone.Controls\obj\Debug\Phone.Controls.dll
+C:\Users\TOSHIBA\documents\visual studio 2010\Projects\iLikeWine\Phone.Controls\obj\Debug\Phone.Controls.pdb
+C:\Users\TOSHIBA\documents\visual studio 2010\Projects\iLikeWine\Phone.Controls\obj\Debug\XapCacheFile.xml
