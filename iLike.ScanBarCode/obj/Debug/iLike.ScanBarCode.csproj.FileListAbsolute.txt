@@ -1,0 +1,15 @@
+C:\Users\TOSHIBA\documents\visual studio 2010\Projects\iLikeWine\iLike.ScanBarCode\Bin\Debug\ApplicationIcon.png
+C:\Users\TOSHIBA\documents\visual studio 2010\Projects\iLikeWine\iLike.ScanBarCode\Bin\Debug\Background.png
+C:\Users\TOSHIBA\documents\visual studio 2010\Projects\iLikeWine\iLike.ScanBarCode\Bin\Debug\iLike.ScanBarCode.dll
+C:\Users\TOSHIBA\documents\visual studio 2010\Projects\iLikeWine\iLike.ScanBarCode\Bin\Debug\iLike.ScanBarCode.pdb
+C:\Users\TOSHIBA\documents\visual studio 2010\Projects\iLikeWine\iLike.ScanBarCode\Bin\Debug\AppManifest.xaml
+C:\Users\TOSHIBA\documents\visual studio 2010\Projects\iLikeWine\iLike.ScanBarCode\Bin\Debug\iLike.ScanBarCode.xap
+C:\Users\TOSHIBA\documents\visual studio 2010\Projects\iLikeWine\iLike.ScanBarCode\Bin\Debug\Microsoft.Phone.Controls.dll
+C:\Users\TOSHIBA\documents\visual studio 2010\Projects\iLikeWine\iLike.ScanBarCode\Bin\Debug\Silverlight_ZXing_Core.dll
+C:\Users\TOSHIBA\documents\visual studio 2010\Projects\iLikeWine\iLike.ScanBarCode\Bin\Debug\Microsoft.Phone.Controls.xml
+C:\Users\TOSHIBA\documents\visual studio 2010\Projects\iLikeWine\iLike.ScanBarCode\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\TOSHIBA\documents\visual studio 2010\Projects\iLikeWine\iLike.ScanBarCode\obj\Debug\BarCode.g.i.cs
+C:\Users\TOSHIBA\documents\visual studio 2010\Projects\iLikeWine\iLike.ScanBarCode\obj\Debug\iLike.ScanBarCode.g.resources
+C:\Users\TOSHIBA\documents\visual studio 2010\Projects\iLikeWine\iLike.ScanBarCode\obj\Debug\iLike.ScanBarCode.dll
+C:\Users\TOSHIBA\documents\visual studio 2010\Projects\iLikeWine\iLike.ScanBarCode\obj\Debug\iLike.ScanBarCode.pdb
+C:\Users\TOSHIBA\documents\visual studio 2010\Projects\iLikeWine\iLike.ScanBarCode\obj\Debug\XapCacheFile.xml
